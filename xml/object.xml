@@ -1,0 +1,12 @@
+<object>
+	<name>x</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>1</difficult>
+	<bndbox>
+		<xmin>0</xmin>
+		<ymin>0</ymin>
+		<xmax>1</xmax>
+		<ymax>1</ymax>
+	</bndbox>
+</object>
