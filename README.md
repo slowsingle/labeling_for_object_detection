@@ -6,7 +6,5 @@ R−CNNやYOLO, SSDなど、画像の”どこ”に”何”があるかを識�
 
 
 ・動作環境
-
-MacBook Pro
-
-Processing 3.3
+ - MacBook Pro
+ - Processing 3.3
